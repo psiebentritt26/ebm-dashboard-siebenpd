@@ -1,0 +1,105 @@
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Success Criteria Definition</h1>
+<h1 style="text-align: center; font-size: 16pt; font-weight: bold;">Define specific, measurable criteria to evaluate solution effectiveness</h1>
+
+<h2>SMART Success Criteria</h2>
+
+<h3>Criterion 1: Reduced employee turnover rate</h3>
+<ul>
+<li><strong>Specific:</strong> The overall employee turnover rate for either one or multiple transportation companies</li>
+<li><strong>Measurable:</strong> Turnover rate over a set period of time</li>
+<li><strong>Achievable:</strong> YES</li>
+<li><strong>Relevant:</strong> Yes it addresses the core problem</li>
+<li><strong>Time-bound:</strong> Annually</li>
+</ul>
+
+<h3>Criterion 2: Increased employee satisfaction</h3>
+<ul>
+<li><strong>Specific:</strong> Employee satisfaction survey results</li>
+<li><strong>Measurable:</strong> Through higher scores on employee satisfaction surveys or interviews</li>
+<li><strong>Achievable:</strong> YES</li>
+<li><strong>Relevant:</strong> YES</li>
+<li><strong>Time-bound:</strong> QUARTERLY OR ANNUALLY</li>
+</ul>
+
+<h2>Measurement Framework</h2>
+
+<h3>Quantitative Metrics</h3>
+<ul>
+<li>Turnover rate</li>
+<li>Overall productivity</li>
+<li>Employee satisfaction</li>
+</ul>
+
+<h3>Qualitative Indicators</h3>
+<ul>
+<li>Employee perceptions of distributive/procedural justice</li>
+<li>General attitudes towards work environment</li>
+</ul>
+
+<h2>Leading vs. Lagging Indicators</h2>
+
+<h4>Leading Indicators (Early signals of progress)</h4>
+<ul>
+<li>Increased employee satisfaction</li>
+</ul>
+
+<h4>Lagging Indicators (Final outcomes)</h4>
+<ul>
+<li>Reduced overall turnover rate</li>
+<li>Reduced turnover intention</li>
+</ul>
+
+
+
+<h2>Stakeholder-Specific Success Criteria</h2>
+
+<h3>Management Success Measures</h3>
+<ul>
+<li>Reduced turnover rate</li>
+<li>Decreased costs associated with staff shortages</li>
+</ul>
+
+<h3>Employee Success Measures</h3>
+<ul>
+<li>Increased overall job satisfaction associated with intrinsic motivation</li>
+<li>Increased perceptions of organizational fairness</li>
+<li>Implementation of wellness programs and policies</li>
+</ul>
+
+<h3>Customer Success Measures</h3>
+<ul>
+<li>Reduction in delayed deliveries.</li>
+<li>Decrease in product shortages for retailers and receiving businesses.</li>
+</ul>
+
+
+<h2>Timeline for Assessment</h2>
+
+<h3>Short-term (30-90 days)</h3>
+<ul>
+<li>Updated scheduling frameworks</li>
+</ul>
+
+<h3>Medium-term (3-6 months)</h3>
+<ul>
+<li>Implementation of employee health & wellness policies & programs</li>
+<li>Adjustment to wages/salaries</li>
+<li>Implementation of bonuses and/or other benefits</li>
+<li>Improved overall management quality</li>
+</ul>
+
+<h3>Long-term (6-12 months)</h3>
+<ul>
+<li>Shift in organizational culture</li>
+<li>Job redesign around proposed interventions</li>
+<li>Overhauled procedural/distributive justice practices</li>
+</ul>
+
+
+---
+INSTRUCTIONS:
+1. Be specific and measurable - avoid vague terms like "better" or "improved"
+2. Ensure criteria are achievable given your resources and timeline
+3. Include both quantitative and qualitative measures
+4. Consider different stakeholder perspectives on success
+5. Plan how you'll actually collect the measurement data

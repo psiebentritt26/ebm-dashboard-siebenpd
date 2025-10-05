@@ -1,0 +1,40 @@
+
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Problem Definition Framework</h1>
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Use this template to clearly define your management problem</h1>
+
+<h2>X → Y Framework</h2>
+<h3>Current State (X - What's happening now that's problematic?)</h3>
+<p>High employee turnover in the trucking industry.</p>
+
+<h3>Desired State (Y - What outcome do we want to achieve?)</h3>
+<p>Reduced employee turnover in the trucking industry.</p>
+
+<h2>PICOC Framework</h2>
+<h3>Population (P - Who is affected by this problem?)</h3>
+<p>Managers of trucking/transportation companies</p>
+
+<h3>Intervention (I - What solution/action are we considering?)</h3>
+<p>Increased wages, flexible scheduling and/or refined procedural justice practices.</p>
+
+<h3>Comparison (C - What alternatives exist?)</h3>
+<p>Do nothing/status quo.</p>
+
+<h3>Outcomes (O - What will success look like?)</h3>
+<p>Decrease in the overall turnover rate.</p>
+
+<h3>Context (C - Where/when does this apply?)</h3>
+<p>The trucking industry.</p>
+
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Clear Problem Statement</h1>
+<p>A high employee turnover rate in the trucking industry leading to labor shortages and decreased overall productivity in the industry.</p>
+
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Why This Problem Matters</h1>
+<h3>Impact on Organization</h3>
+<p>Less goods being transported can mean decreased productivity, poor public relations due to delayed shipments, and therefore less overall profits.</p>
+
+<h3>Stakeholder Impact</h3>
+<p>Shipments to customers may be delayed; senior and middle management will have to navigate constant staff shortages and put unnecessary strains on resources.</p>
+
+<h3>Strategic Alignment</h3>
+<p>A widespread focus on just-in-time delivery or other efficient transportation practices in some organizations can be negatively affected</p>
+

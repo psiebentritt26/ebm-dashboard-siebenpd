@@ -1,0 +1,102 @@
+<h1 style="text-align: center; font-size: 20pt; font-weight: bold;">Stakeholder Analysis</h1>
+<h1 style="text-align: center; font-size: 16pt; font-weight: bold;">Identify and analyze all parties affected by your problem and solution</h1>
+
+<h2>Internal Stakeholders</h2>
+
+<h3>Senior Management</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Senior management would deal with decreased productivity and profits</li>
+<li><strong>Interest in Solution:</strong> Less turnover means greater productivity and increased job satisfaction</li>
+<li><strong>Influence Level:</strong> HIGH influence</li>
+<li><strong>Support Level:</strong> SUPPORTER</li>
+</ul>
+
+<h3>Middle Management</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Middle managers have to consistently deal with driver shortages and/or customer complaints</li>
+<li><strong>Interest in Solution:</strong> Better staffing levels means more focus on other middle management initiatives</li>
+<li><strong>Influence Level:</strong> HIGH influence</li>
+<li><strong>Support Level:</strong> SUPPORTER</li>
+</ul>
+
+<h3>Employees/Staff</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Higher employee turnover can decrease motivation levels of current staff members</li>
+<li><strong>Interest in Solution:</strong> Higher motivation levels and potentially less burnout as a result of higher staff levels</li>
+<li><strong>Influence Level:</strong> LOW influence</li>
+<li><strong>Support Level:</strong> SUPPORTER</li>
+</ul>
+
+
+
+<h2>External Stakeholders</h2>
+
+<h3>Customers/Clients</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Less staff and driver shortagescan cause delays in shipments.</li>
+<li><strong>Interest in Solution:</strong> Better on-time performance would improve customer/client relationships. </li>
+<li><strong>Influence Level:</strong> MEDIUM influence through customer feedback</li>
+<li><strong>Support Level:</strong> SUPPORTER</li>
+</ul>
+
+<h3>Suppliers/Partners</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Larger companies/client receiving shipments or relying on transportation services can be negatively affected by staff turnover</li>
+<li><strong>Interest in Solution:</strong> Stable staffing levels increases service reliability and maintains good relationships with partners</li>
+<li><strong>Influence Level:</strong> LOW influence</li>
+<li><strong>Support Level:</strong> SUPPORTER</li>
+</ul>
+
+<h3>Community/Society</h3>
+<ul>
+<li><strong>Interest in Problem:</strong> Greater staffing levels in transportation means healthier national commerce.</li>
+<li><strong>Interest in Solution:</strong> Healthier commerce means goods such as food and medication are consistently stocked.</li>
+<li><strong>Influence Level:</strong> LOW influence through public opinion.</li>
+<li><strong>Support Level:</strong> HIGH support</li>
+</ul>
+
+<h2>Stakeholder Engagement Strategy</h2>
+
+<h3>High Influence, High Interest (Manage Closely)</h3>
+<ul>
+<li>Senior Management: Closely track progress towards middle and long-term success metrics.</li>
+<li>Middle Management: Closely track progress towards short-term success metrics and day-to-day operations.</li>
+</ul>
+
+
+<h3>Low Influence, High Interest (Keep Informed)</h3>
+<ul>
+<li>Customers/clients: Consistently communicate regarding shipments times and delays</li>
+<li>Community/society: Engage with outreach events, PR initiatives, etc.</li>
+<li>Suppliers/Partners: Consistently communicate information regarding staff shortages and other staff affairs.</li>
+<li>Employees/Staff: Keep in the loop of possible new benefits, wage/salary increases, and new scheduling protocols.</li>
+</ul>
+
+
+<h2>Key Stakeholder Insights for Evidence Collection</h2>
+
+<h3>Who to Interview/Survey</h3>
+<ul>
+<li>Senior Management</li>
+<li>Employees/Staff</li>
+</ul>
+
+<h3>What Questions to Ask</h3>
+<p>TO SENIOR MGT: "What patterns have you observed in terms of employee turnover rates?"</p>
+<p>TO SENIOR MGT: "What is the correlation between employee turnover and frequency of delayed shipments?"</p>
+<p>TO EMPLOYEES/STAFF: "How often do you feel tired/burnt-out before, during, or after work?"</p>
+<p>TO EMPLOYEES/STAFF: "What is one big change you would like to see in terms of your work life?"</p>
+
+<h3>How to Engage</h3>
+<ul>
+<li>Structured interviews</li>
+<li>Employee/staff surveys</li>
+<li>Customer satisfaction surveys</li>
+</ul>
+
+---
+INSTRUCTIONS:
+1. Be specific about each stakeholder group's interests and influence
+2. Consider both obvious and hidden stakeholders
+3. Think about implementation challenges from stakeholder perspectives
+4. This analysis will guide your stakeholder evidence collection
