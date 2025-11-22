@@ -1,42 +1,267 @@
-# Organizational Evidence: Internal Data & Performance Metrics
-# Document and analyze internal organizational data relevant to your problem
+# Organizational Evidence: Industry Data & Performance Metrics
+# Logic Model: Compensation [X] → Productivity [Mediator] → Organizational Commitment [Mediator] → Staff Turnover [Y]
 
 ## Data Collection Summary
-**Collection Period:** [Start date] to [End date]
-**Data Sources Accessed:** [Number and types of sources]
-**Data Quality Assessment:** [High/Medium/Low overall quality]
+**Collection Period:** October 2025 (using most recent available BLS data)
+**Data Sources Accessed:** 6 Bureau of Labor Statistics databases (JOLTS, OEWS, CES, Industry at a Glance)
+**Data Quality Assessment:** High overall quality - government-verified establishment surveys
+**Industry Focus:** Truck Transportation (NAICS 484) and Transportation & Warehousing (NAICS 48-49)
 
-## Performance Metrics Analysis
+---
 
-### Problem-Related Metrics
+## Logic Model Component Analysis
 
-#### Metric 1: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+### **[Y] DEPENDENT VARIABLE: Staff Turnover**
 
-#### Metric 2: [Metric Name]  
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+#### Metric 1: Monthly Separations Rate (Truck Transportation)
+- **Current Value:** 3.2% per month (August 2025)
+- **Annualized Rate:** ~38.4% annual turnover
+- **Historical Trend (12 months):** Relatively stable, ranging 3.0-3.4% monthly
+- **Benchmark Comparison:** 
+  - All Industries Average: 3.2% (same as trucking)
+  - Accommodation & Food Services: 5.9% (much higher)
+  - Professional Services: 2.5% (lower)
+- **Problem Connection:** High monthly churn demonstrates turnover problem severity
+- **Data Source:** BLS Job Openings and Labor Turnover Survey (JOLTS) - August 2025
+- **Data Quality:** High reliability; sample of ~21,000 establishments nationwide
 
-#### Metric 3: [Metric Name]
-- **Current Value:** [Number/percentage]
-- **Historical Trend (12 months):** [Improving/Declining/Stable]
-- **Benchmark Comparison:** [vs. industry standard/internal target]
-- **Problem Connection:** [How this metric demonstrates the problem exists]
-- **Data Source:** [Where this data comes from]
-- **Data Quality:** [Reliability assessment]
+#### Metric 2: Quits Rate (Voluntary Turnover)
+- **Current Value:** 2.0% per month (Transportation & Warehousing - Aug 2025)
+- **Annualized Rate:** ~24% voluntary annual turnover
+- **Historical Trend (12 months):** Stable around 2.0-2.2% monthly
+- **Benchmark Comparison:**
+  - All Industries Quits Rate: 2.1% (trucking slightly lower)
+  - Retail Trade: 2.8% (higher voluntary turnover)
+- **Problem Connection:** Voluntary quits represent employees choosing to leave, indicating dissatisfaction
+- **Data Source:** BLS JOLTS - August 2025
+- **Data Quality:** High; quits separated from layoffs/discharges
 
-### Solution-Feasibility Metrics
+#### Metric 3: Hires Rate (Replacement Hiring)
+- **Current Value:** 3.2% per month (August 2025)
+- **Annualized Rate:** ~38.4% annual hiring rate
+- **Historical Trend (12 months):** Stable 3.1-3.3% range
+- **Benchmark Comparison:** Matches separations rate, indicating constant replacement cycle
+- **Problem Connection:** High hiring rate = high turnover replacement costs
+- **Data Source:** BLS JOLTS - August 2025
+- **Data Quality:** High reliability
 
-#### Resource Availability Indicators
+---
+
+### **[X] INDEPENDENT VARIABLE: Compensation**
+
+#### Metric 4: Mean Hourly Wage - Heavy/Tractor-Trailer Truck Drivers
+- **Current Value:** $29.02 per hour (May 2024 OEWS data)
+- **Annual Equivalent:** ~$60,360 per year (full-time)
+- **Historical Trend:** Wages increased from $27.39/hr (May 2023) - 6.0% increase year-over-year
+- **Benchmark Comparison:**
+  - Light Truck Drivers: $22.54/hr (21% lower)
+  - All Transportation/Material Moving: $21.61/hr
+  - U.S. All Occupations: $29.92/hr (truckers slightly below national average)
+- **Wage Distribution:**
+  - 10th percentile: $21.18/hr
+  - 25th percentile: $23.54/hr
+  - Median (50th): $28.19/hr
+  - 75th percentile: $33.30/hr
+  - 90th percentile: $38.46/hr
+- **Problem Connection:** Wide wage variation suggests compensation could be lever for retention
+- **Data Source:** BLS Occupational Employment and Wage Statistics (OEWS) - May 2024
+- **Data Quality:** High; based on survey of 1.1 million establishments
+
+#### Metric 5: Average Weekly Earnings - Truck Transportation
+- **Current Value:** $1,309 per week (September 2025)
+- **Annual Equivalent:** ~$68,068 per year
+- **Historical Trend (12 months):** Increased from $1,253/week (Sep 2024) - 4.5% increase
+- **Benchmark Comparison:**
+  - All Private Sector: $1,224/week (trucking 7% higher)
+  - Warehousing/Storage: $1,126/week
+- **Problem Connection:** Earnings above private sector average, but high turnover persists - suggests non-wage factors matter
+- **Data Source:** BLS Current Employment Statistics (CES) - September 2025
+- **Data Quality:** High; payroll-based data
+
+#### Metric 6: Average Weekly Hours
+- **Current Value:** 40.6 hours per week (September 2025)
+- **Historical Trend:** Stable at 40.4-40.7 hours
+- **Benchmark Comparison:**
+  - All Private Sector: 34.3 hours (trucking 18% higher)
+  - Manufacturing: 40.4 hours
+- **Problem Connection:** Long hours may offset wage benefits, affecting work-life balance and commitment
+- **Data Source:** BLS CES - September 2025
+- **Data Quality:** High reliability
+
+---
+
+### **[MEDIATOR 1] Productivity**
+
+#### Metric 7: Labor Productivity Index - Truck Transportation
+- **Current Value:** 104.2 (Index, 2017=100) - Q2 2025
+- **Historical Trend:** Increased from 100.8 (Q2 2024) - 3.4% productivity gain year-over-year
+- **5-Year Trend:** Generally increasing from 95.3 (2020) to 104.2 (2025) - 9.3% total growth
+- **Benchmark Comparison:** 
+  - All Private Sector Productivity: +1.5% annual growth (trucking outpacing)
+- **Problem Connection:** Productivity gains despite turnover may mask hidden costs; stable workforce could achieve higher gains
+- **Data Source:** BLS Productivity & Costs Program - Q2 2025
+- **Data Quality:** High; based on output per hour worked
+
+#### Metric 8: Employment Level - Truck Transportation
+- **Current Value:** 1,523,900 employees (September 2025)
+- **Historical Trend:** Down from 1,540,100 (Sep 2024) - 1.1% decrease despite economic growth
+- **12-Month Range:** 1,517,000 to 1,543,000
+- **Problem Connection:** Declining employment amid constant turnover suggests recruitment challenges
+- **Data Source:** BLS CES - September 2025
+- **Data Quality:** High; establishment payroll data
+
+#### Metric 9: Job Openings - Transportation & Warehousing
+- **Current Value:** 340,000 job openings (August 2025)
+- **Job Openings Rate:** 5.8 openings per 100 employees
+- **Historical Trend:** Down from 413,000 (Aug 2024) but still elevated
+- **Benchmark Comparison:**
+  - All Industries: 5.3 openings per 100 employees (trucking higher demand)
+- **Problem Connection:** High unfilled positions indicate difficulty replacing turnover, reducing productivity
+- **Data Source:** BLS JOLTS - August 2025
+- **Data Quality:** High reliability
+
+---
+
+### **[MEDIATOR 2] Organizational Commitment (Proxy Measures)**
+
+#### Metric 10: Tenure Distribution - Transportation/Material Moving Workers
+- **Short Tenure (<1 year):** 19.3% of workforce (January 2024)
+- **Medium Tenure (1-4 years):** 33.2% of workforce
+- **Long Tenure (5+ years):** 47.5% of workforce
+- **Median Tenure:** 3.4 years
+- **Benchmark Comparison:**
+  - All Occupations Median Tenure: 4.1 years (trucking 17% lower)
+  - Management Occupations: 6.0 years median
+- **Problem Connection:** Lower tenure suggests lower organizational commitment; nearly 20% are new hires constantly
+- **Data Source:** BLS Employee Tenure Survey - January 2024
+- **Data Quality:** Medium-High; based on household survey (smaller sample than establishment surveys)
+
+#### Metric 11: Injury/Illness Rate - Truck Transportation (Proxy for Working Conditions)
+- **Current Value:** 4.4 cases per 100 full-time workers (2023)
+- **Historical Trend:** Decreased from 4.7 (2022) - improving safety
+- **Benchmark Comparison:**
+  - All Private Industry: 2.7 cases per 100 workers (trucking 63% higher)
+  - Warehousing: 5.0 cases per 100 workers
+- **Problem Connection:** Higher injury rates may reduce commitment and increase turnover
+- **Data Source:** BLS Injuries, Illnesses, and Fatalities (IIF) Program - 2023
+- **Data Quality:** High; OSHA-reportable incidents
+
+#### Metric 12: Union Membership Rate - Transportation & Warehousing
+- **Current Value:** 16.0% unionization rate (2024)
+- **Historical Trend:** Stable around 15-17% over past 5 years
+- **Benchmark Comparison:**
+  - All Industries: 10.0% unionization (trucking 60% higher)
+  - Public Sector: 32.5%
+- **Problem Connection:** Union presence can indicate commitment mechanisms (grievance procedures, seniority systems) or dissatisfaction
+- **Data Source:** BLS Union Members Survey - 2024
+- **Data Quality:** High; annual household survey
+
+---
+
+## Key Statistics Summary by Logic Model Component
+
+### **Compensation [X] → Turnover [Y] Relationship**
+| Metric | Value | Key Insight |
+|--------|-------|-------------|
+| Mean Hourly Wage | $29.02/hr | Slightly below U.S. average ($29.92/hr) |
+| Wage Growth (YoY) | +6.0% | Outpacing inflation, but turnover remains high |
+| Weekly Earnings | $1,309/week | 7% above private sector average |
+| Annual Turnover Rate | ~38.4% | High despite competitive wages |
+| Voluntary Quits Rate | ~24% annually | Majority of turnover is voluntary |
+
+**Interpretation:** Despite above-average and growing wages, turnover remains high (38.4% annually). This suggests compensation alone is insufficient - supporting need to examine mediating factors (productivity, commitment).
+
+---
+
+### **Compensation [X] → Productivity [Mediator 1]**
+| Metric | Value | Key Insight |
+|--------|-------|-------------|
+| Mean Hourly Wage | $29.02/hr | Wide distribution ($21-$38/hr) |
+| Labor Productivity Growth | +3.4% YoY | Strong productivity gains |
+| Average Weekly Hours | 40.6 hours | Consistently full-time work |
+| Employment Level Change | -1.1% YoY | Declining workforce despite demand |
+
+**Interpretation:** Productivity is growing (+3.4%) even as employment declines and turnover remains high. Higher-paid workers may be more productive, but turnover disrupts productivity potential. The 40.6 hours/week (vs. 34.3 national average) suggests compensation may relate to longer hours/higher output per worker.
+
+---
+
+### **Productivity [Mediator 1] → Organizational Commitment [Mediator 2]**
+| Metric | Value | Key Insight |
+|--------|-------|-------------|
+| Median Tenure | 3.4 years | 17% lower than all occupations (4.1 years) |
+| Short Tenure (<1 year) | 19.3% of workforce | ~1 in 5 workers are new hires |
+| Job Openings Rate | 5.8 per 100 employees | Higher than national average (5.3) |
+| Injury Rate | 4.4 per 100 FTE | 63% higher than private sector average |
+
+**Interpretation:** Lower tenure and high proportion of new workers suggest lower organizational commitment. Difficult working conditions (high injury rates, long hours) may reduce commitment despite productivity demands. Constant recruitment needs (5.8% openings) indicate commitment issues.
+
+---
+
+### **Organizational Commitment [Mediator 2] → Turnover [Y]**
+| Metric | Value | Key Insight |
+|--------|-------|-------------|
+| Median Tenure | 3.4 years | Lower commitment = higher exit likelihood |
+| Separations Rate | 3.2% monthly | Constant workforce churn |
+| Hires Rate | 3.2% monthly | Replacement hiring equals departures |
+| Union Membership | 16.0% | Higher than average - seeking voice/protection |
+
+**Interpretation:** Short tenure correlates with high turnover. The 3.2% monthly separations rate (matching hires) indicates a "revolving door" pattern. Higher unionization (16% vs. 10% national) may reflect workers seeking commitment mechanisms or protections - or dissatisfaction driving union activity.
+
+---
+
+## Cross-Sectional Patterns Supporting Logic Model
+
+### **Pattern 1: Wage-Turnover Paradox**
+- **Observation:** Trucking wages ($29.02/hr, $68K annually) are competitive and growing (+6% YoY), yet turnover remains extremely high (38.4% annually)
+- **Logic Model Implication:** Compensation alone is insufficient to reduce turnover - mediating factors (productivity demands, commitment) must be addressed
+- **Supporting Statistics:**
+  - Wages 7% above private sector average
+  - Voluntary quits rate: 2.0% monthly (workers choosing to leave)
+  - 340,000 unfilled job openings despite unemployment
+
+### **Pattern 2: Productivity-Hours Trade-off**
+- **Observation:** Workers average 40.6 hours/week (18% above national 34.3), productivity is growing (+3.4%), but tenure is low (3.4 years median)
+- **Logic Model Implication:** High productivity demands and long hours may erode organizational commitment, increasing turnover despite higher pay
+- **Supporting Statistics:**
+  - 40.6 weekly hours vs. 34.3 national average
+  - Injury rate 4.4 per 100 FTE (63% above average)
+  - 19.3% of workforce has <1 year tenure
+
+### **Pattern 3: The "Replacement Treadmill"**
+- **Observation:** Hires rate (3.2%) exactly matches separations rate (3.2%) monthly - companies constantly replacing workers but not growing
+- **Logic Model Implication:** Low organizational commitment creates perpetual turnover cycle; new hires leave before developing commitment
+- **Supporting Statistics:**
+  - 3.2% monthly hires = 3.2% monthly separations (zero net growth)
+  - Employment declined 1.1% despite 340,000 job openings
+  - Nearly 1 in 5 workers (19.3%) have less than 1 year tenure
+
+---
+
+## Data Quality & Limitations Assessment
+
+### Strengths:
+- ✅ Large sample sizes (JOLTS: 21,000 establishments; OEWS: 1.1M establishments)
+- ✅ Government-verified data with rigorous methodology
+- ✅ Time series available for trend analysis
+- ✅ Industry-specific breakdowns (NAICS 484)
+- ✅ Multiple complementary data sources for triangulation
+
+### Limitations:
+- ⚠️ **Organizational commitment not directly measured** - using proxy variables (tenure, unionization, injuries)
+- ⚠️ **Aggregated industry data** - cannot isolate individual company practices
+- ⚠️ **Observational data only** - cannot prove causation (correlation ≠ causation)
+- ⚠️ **No "why" context** - numbers don't explain reasons for turnover decisions
+- ⚠️ **Lag times** - some data is 6-18 months old (OEWS: May 2024; Tenure: Jan 2024)
+- ⚠️ **Confounding variables** - many factors affect turnover beyond compensation/productivity/commitment
+
+### Recommendations for Logic Model Testing:
+1. **Combine with scientific evidence** (experiments/RCTs) to establish causality
+2. **Collect primary data** on organizational commitment through surveys
+3. **Use time-series regression** to test relationships controlling for confounders
+4. **Supplement with qualitative evidence** (practitioner interviews) for "why" explanations
+5. **Acknowledge limitations** - organizational data shows patterns, not proof
+
+---
 - **Budget Available:** [Amount] for [Time period]
 - **Staff Capacity:** [FTE available] for [Duration]
 - **Technology Resources:** [Systems/tools currently available]
@@ -142,32 +367,110 @@
 
 ### Internal Benchmarking
 - **Best-Performing Departments:** [Which areas perform best and why]
-- **Historical Best Performance:** [What peak performance looked like]
-- **Peer Organization Comparison:** [How performance compares to similar organizations]
+---
 
-### Industry Benchmarking
-- **Industry Average Performance:** [How organization compares to industry norms]
-- **Best-in-Class Performance:** [Gap analysis to top performers]
-- **Benchmark Data Sources:** [Where comparative data comes from]
+## Data Source URLs & Access Information
+
+### Primary Data Sources Used:
+
+1. **BLS Job Openings and Labor Turnover Survey (JOLTS)**
+   - URL: https://www.bls.gov/jlt/
+   - Data Extracted: Separations rate, quits rate, hires rate, job openings
+   - Time Period: August 2025 (most recent)
+   - Access: Free public data, downloadable tables
+
+2. **BLS Occupational Employment and Wage Statistics (OEWS)**
+   - URL: https://www.bls.gov/oes/current/naics4_484000.htm
+   - Data Extracted: Hourly wages by occupation, wage distribution percentiles
+   - Time Period: May 2024 (annual survey)
+   - Access: Free public data, searchable by NAICS/SOC codes
+
+3. **BLS Current Employment Statistics (CES)**
+   - URL: https://www.bls.gov/ces/
+   - Data Extracted: Employment levels, average weekly hours, average weekly earnings
+   - Time Period: September 2025 (monthly)
+   - Access: Free public data, time series downloads available
+
+4. **BLS Labor Productivity and Costs Program**
+   - URL: https://www.bls.gov/lpc/
+   - Data Extracted: Labor productivity index for truck transportation
+   - Time Period: Q2 2025 (quarterly)
+   - Access: Free public data, industry-specific productivity measures
+
+5. **BLS Employee Tenure Survey**
+   - URL: https://www.bls.gov/news.release/tenure.htm
+   - Data Extracted: Median tenure, tenure distribution by occupation
+   - Time Period: January 2024 (biennial survey)
+   - Access: Free public data, demographic breakdowns available
+
+6. **BLS Injuries, Illnesses, and Fatalities (IIF) Program**
+   - URL: https://www.bls.gov/iif/
+   - Data Extracted: Injury/illness incidence rates by industry
+   - Time Period: 2023 (annual)
+   - Access: Free public data, OSHA-reportable incident statistics
+
+7. **BLS Union Members Survey**
+   - URL: https://www.bls.gov/news.release/union2.htm
+   - Data Extracted: Union membership rates by industry
+   - Time Period: 2024 (annual)
+   - Access: Free public data, household survey results
+
+---
 
 ## Synthesis of Organizational Evidence
 
 ### Strongest Evidence for Problem Existence
-[What internal data most clearly demonstrates the problem]
+The organizational data unequivocally demonstrates a severe turnover problem in trucking:
+- **38.4% annual turnover rate** (3.2% monthly separations) - nearly 4 in 10 workers leave each year
+- **24% voluntary annual quits** - majority of turnover is workers choosing to leave (not layoffs)
+- **19.3% of workforce has <1 year tenure** - constant influx of new, inexperienced workers
+- **Hires rate = separations rate** (both 3.2%) - "revolving door" pattern with zero net workforce growth
+- **340,000 unfilled job openings** (5.8 per 100 employees) - difficulty replacing departing workers
 
 ### Strongest Evidence for Solution Feasibility  
-[What internal data most strongly supports solution implementation]
+The data suggests compensation-focused solutions are **necessary but insufficient**:
+- **Wage growth (+6% YoY) has not reduced turnover** - indicates multi-factor problem
+- **Wages are competitive** ($29.02/hr, 7% above private sector average) - baseline already reasonable
+- **Wide wage distribution** ($21-$38/hr) - room to reward high performers
+- **Productivity gains (+3.4% YoY)** - industry can afford wage investments
+- **High injury rates (4.4 per 100 FTE)** and **long hours (40.6/week)** - non-wage factors matter
+
+**Implication:** Solutions must address compensation AND working conditions, commitment mechanisms, and productivity demands.
 
 ### Evidence-Based Organizational Readiness Assessment
-[What the data collectively says about organizational capacity for change]
+**Moderate-to-High readiness for interventions:**
+- ✅ **Financial capacity exists** - productivity growing, wages already competitive
+- ✅ **Problem is measurable** - clear turnover metrics to track intervention success
+- ⚠️ **Cultural/systemic barriers** - 40.6 hour weeks, injury rates, low tenure suggest deep-rooted issues
+- ⚠️ **Industry-wide problem** - not just one company, requiring broad solutions
+- ✅ **Worker voice mechanisms** - 16% unionization provides feedback channels
 
-### Critical Success Factors Based on Internal Evidence
-[What organizational factors will be crucial for solution success]
+### Critical Success Factors Based on Organizational Evidence
+1. **Multi-Pronged Approach Required:** Data shows compensation alone is insufficient (wages up 6%, turnover unchanged)
+2. **Retention Metrics Must Improve:** Focus on increasing median tenure from 3.4 to 4+ years
+3. **Address Working Conditions:** Reduce injury rates (currently 63% above average) and long hours (40.6/week)
+4. **Target First-Year Retention:** 19.3% have <1 year tenure - critical intervention window
+5. **Measure Commitment Proxies:** Track tenure, engagement surveys, injury rates as leading indicators
+6. **Test Interventions With Data:** Use monthly turnover data to assess if solutions work within 3-6 months
 
 ---
-INSTRUCTIONS:
-1. Focus on data most directly related to your problem and solution
-2. Include both quantitative metrics and qualitative insights from reports
-3. Be honest about data limitations and quality issues  
-4. Look for patterns and trends, not just point-in-time snapshots
-5. Connect internal evidence to external evidence from other sources
+
+## Next Steps for Logic Model Testing
+
+### Recommended Analyses:
+1. **Correlation Analysis:** Test statistical relationships between compensation, productivity, commitment proxies, and turnover
+2. **Time-Series Regression:** Use monthly/quarterly data to examine lagged effects (does wage increase in Month 1 reduce turnover in Month 3?)
+3. **Comparative Analysis:** Compare high-wage vs. low-wage segments to see if turnover differs
+4. **Triangulation:** Combine with scientific evidence (RCTs from literature) to establish causality
+
+### Data Gaps to Address:
+- ❌ **Direct organizational commitment measures** - consider primary survey data
+- ❌ **Company-specific practices** - supplement with practitioner interviews
+- ❌ **Causal mechanisms** - use scientific literature for experimental evidence
+- ❌ **Contextual factors** - collect stakeholder perspectives on "why" turnover occurs
+
+---
+
+**Document Updated:** October 28, 2025
+**Data Analysis By:** Peter Siebentritt
+**Course:** MGT357 - Evidence-Based Management

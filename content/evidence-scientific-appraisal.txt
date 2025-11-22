@@ -2,178 +2,92 @@
 # Critically evaluate the trustworthiness and relevance of your research evidence
 
 ## Overall Evidence Quality Rating
-**Rating:** [High/Medium/Low]
-**Confidence Level:** [How confident are you in the scientific evidence?]
+**Rating:** Medium
+**Confidence Level:** Fairly confident - Some pitfalls and quality concerns, but overall decent insights
 
 ## Individual Study Quality Assessment
 
-### Study 1: [Brief title/identifier]
+### Study 1: Global Insights on Wage and Employee Turnover in Microfinance
 #### Methodological Quality
-- **Study Design Appropriateness:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Sample Size Adequacy:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Measurement Validity:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Statistical Analysis:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
 
-#### Risk of Bias Assessment
-- **Selection Bias:** [Low/Medium/High risk]
-- **Information Bias:** [Low/Medium/High risk]
-- **Confounding:** [Well controlled/Partially controlled/Poorly controlled]
-- **Reporting Bias:** [Low/Medium/High risk]
+The study design is a Non-controlled posttest only study. This design is not appropriate (level D) to measure an effect, impact or causal relation.
 
-#### External Validity
-- **Population Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study population to your context?]
-- **Setting Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study setting to your context?]
-- **Time Relevance:** [High/Medium/Low]
-  - *Reasoning:* [How current/relevant is this research?]
+The study contains 1 serious weaknesses:
+
+1. The criteria to select subjects were not clearly defined
+
+In addition, the effect size is large and the precision is not reported.
+
+Based on this result you should conclude that the trustworthiness of the study is low (60%).
+
+This means there is a 40% chance that alternative explanations for the effect found are possible.
+---
+
+### Study 2: The effects of pay satisfaction and affective commitment on turnover intention
+#### Methodological Quality
+
+The study design is a Cross-sectional study. This design is very inappropriate (level D-) to measure an effect, impact or causal relation.
+
+The study contains 1 serious weaknesses:
+
+1. The sample size was not randomly selected
+
+In addition, the effect size is medium and the precision is not reported.
+
+Based on this result you should conclude that the trustworthiness of the study is very low (55%).
+
+This means there is a 45% chance that alternative explanations for the effect found are possible.
+
 
 ---
 
-### Study 2: [Brief title/identifier]
+### Study 3: The Impact of Flexible Scheduling on Employee Attendance and Turnover
 #### Methodological Quality
-- **Study Design Appropriateness:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Sample Size Adequacy:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Measurement Validity:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Statistical Analysis:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
 
-#### Risk of Bias Assessment
-- **Selection Bias:** [Low/Medium/High risk]
-- **Information Bias:** [Low/Medium/High risk]
-- **Confounding:** [Well controlled/Partially controlled/Poorly controlled]
-- **Reporting Bias:** [Low/Medium/High risk]
+The study design is a Non-randomized controlled study. This design is moderately appropriate (level B) to measure an effect, impact or causal relation.
 
-#### External Validity
-- **Population Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study population to your context?]
-- **Setting Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study setting to your context?]
-- **Time Relevance:** [High/Medium/Low]
-  - *Reasoning:* [How current/relevant is this research?]
+The study contains no weaknesses.
+
+In addition, the effect size is zero or not significant and the precision is not reported.
+
+Based on this result you should conclude that the trustworthiness of the study is moderate (80%).
+
+This means there is a 20% chance that alternative explanations for the effect found are possible.
+
 
 ---
 
-### Study 3: [Brief title/identifier]
+### Study 4: Meta-analytic evidence on flexible work practices
 #### Methodological Quality
-- **Study Design Appropriateness:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Sample Size Adequacy:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Measurement Validity:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
-- **Statistical Analysis:** [Excellent/Good/Fair/Poor]
-  - *Justification:* [Why this rating?]
 
-#### Risk of Bias Assessment
-- **Selection Bias:** [Low/Medium/High risk]
-- **Information Bias:** [Low/Medium/High risk]
-- **Confounding:** [Well controlled/Partially controlled/Poorly controlled]
-- **Reporting Bias:** [Low/Medium/High risk]
+The study design is a Systematic review / meta analysis. This design is highly appropriate (level A) to measure an effect, impact or causal relation.
 
-#### External Validity
-- **Population Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study population to your context?]
-- **Setting Generalizability:** [High/Medium/Low]
-  - *Reasoning:* [How similar is study setting to your context?]
-- **Time Relevance:** [High/Medium/Low]
-  - *Reasoning:* [How current/relevant is this research?]
+The study contains no weaknesses.
 
-## Publication Quality Assessment
+In addition, the effect size is smal and the precision is good.
 
-### Journal Quality
-[Evaluate the quality of journals where studies were published]
+Based on this result you should conclude that the trustworthiness of the study is high (90%).
 
-#### High-Quality Journals
-[List studies published in top-tier journals]
+This means there is a 10% chance that alternative explanations for the effect found are possible.
 
-#### Medium-Quality Journals
-[List studies from reputable but not top-tier journals]
-
-#### Lower-Quality or Predatory Journals
-[Any concerns about publication quality?]
-
-### Peer Review Process
-- **Clear Peer Review:** [Evidence of rigorous peer review process]
-- **Editorial Standards:** [Quality of editorial oversight]
-- **Impact Factor/Citations:** [Journal reputation indicators]
-
-## Systematic Biases and Limitations
-
-### Publication Bias
-[Are positive results more likely to be published in this area?]
-
-### Geographic Bias
-[Are studies mainly from certain countries/regions?]
-
-### Industry Bias
-[Are studies funded by interested parties?]
-
-### Temporal Bias
-[Are findings time-sensitive or context-dependent?]
-
-## Evidence Strength Assessment
-
-### Quantity of Evidence
-- **Number of Studies:** [Sufficient/Limited evidence]
-- **Total Sample Size:** [Adequate/Inadequate for conclusions]
-- **Study Duration:** [Long enough to detect effects?]
-
-### Quality of Evidence
-- **Overall Methodological Rigor:** [High/Medium/Low]
-- **Consistency Across Studies:** [High/Medium/Low consistency]
-- **Effect Size Magnitude:** [Large/Medium/Small effects]
-
-### Relevance to Your Context
-- **Population Match:** [How well do study populations match your context?]
-- **Intervention Similarity:** [How similar are studied interventions to your solution?]
-- **Outcome Relevance:** [How relevant are study outcomes to your success criteria?]
-
-## Confidence in Evidence
-
-### For Problem Definition
-- **Evidence Strength:** [Strong/Moderate/Weak]
-- **Confidence Level:** [High/Medium/Low confidence]
-- **Key Limitations:** [What reduces your confidence?]
-
-### For Solution Effectiveness
-- **Evidence Strength:** [Strong/Moderate/Weak]
-- **Confidence Level:** [High/Medium/Low confidence]
-- **Key Limitations:** [What reduces your confidence?]
-
-## Research Gaps and Future Needs
-
-### Critical Evidence Gaps
-[What important questions remain unanswered?]
-
-### Context-Specific Research Needs
-[What research would be most valuable for your specific situation?]
-
-### Methodological Improvements Needed
-[What would make future research more useful?]
-
-## Implications for Decision Making
-
-### How to Weight Scientific Evidence
-[How much should scientific evidence influence your decision?]
-
-### Evidence-Based Recommendations
-[What does the research clearly support or contradict?]
-
-### Areas Requiring Other Evidence Types
-[Where is scientific evidence insufficient and other evidence crucial?]
 
 ---
-INSTRUCTIONS:
-1. Be honest about study limitations - don't oversell weak evidence
-2. Consider both internal validity (study quality) and external validity (generalizability)
-3. Look for patterns across studies, not just individual study quality
-4. Consider what evidence is missing, not just what's available
-5. Connect quality assessment back to your specific decision-making needs
+
+### Study 5: The Impact of Procedural Justice on Employee Turnover and the Role of two Mediators
+#### Methodological Quality
+
+The study design is a Cross-sectional study. This design is very inappropriate (level D-) to measure an effect, impact or causal relation.
+
+The study contains 1 serious weaknesses:
+
+1. The sample size was not randomly selected
+
+In addition, the effect size is small and the precision is good.
+
+Based on this result you should conclude that the trustworthiness of the study is very low (55%).
+
+This means there is a 45% chance that alternative explanations for the effect found are possible.
+
+
+
+

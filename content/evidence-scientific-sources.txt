@@ -2,157 +2,218 @@
 # Document and summarize the research studies you found
 
 ## Evidence Summary Overview
-**Total Studies Reviewed:** [Number]
+**Total Studies Reviewed:** 7
 **Date Range of Studies:** [Earliest to most recent]
-**Geographic Scope:** [Countries/regions represented]
-**Quality Level:** [Overall assessment: High/Medium/Low]
+**Geographic Scope:** Worldwide
+**Quality Level:** Medium
 
-## Study 1: [Title or Brief Description]
+## Study 1: Global Insights on Wage and Employee Turnover in Microfinance
 ### Citation
-[Full academic citation in APA format]
+Al-Azzam, M., & Obeidat, S. M. (2025). Global insights on wage and employee
+          turnover in microfinance. International Review of Economics & Finance, 100,
+          N.PAG. https://doi.org/10.1016/j.iref.2025.104117
 
 ### Study Overview
-- **Research Design:** [Type of study - RCT, cohort, cross-sectional, etc.]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+- **Research Design:** Non-controlled posttest only
+- **Sample Size:** 979
+- **Population:** Microfinance institutions
+- **Setting:** 96 various developing countries
+- **Duration:** 2010-2018 (8 years)
 
 ### Key Findings
 #### Related to Your Problem
-[What did this study find about your type of problem?]
+- Higher wages initially reduce employee turnover
+- Higher wages may increase turnover beyond a certain thresholds
+- Non-profit microfinance institutions experienced lower overall turnover
 
 #### Related to Your Solution
-[What did this study find about your type of solution?]
+- Higher wages generally lead to increased job satisfaction and commitment from employees 
+- Higher wages may not signal higher productivity and may ultimately lead to cost cuts and by inference, layoffs
 
 #### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+- Wage/turnover correlation (r-value): -0.15 (Statistically significant at the 0.05 level)
+- Wage/turnover pooled non-linear regression correlation: 0.0016 (10% significance level)
 
 ### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+- **Problem Relevance:** High
+- **Solution Relevance:** High
+- **Context Similarity:** Some similarity in that both microfinance institutions and transportation institutions operate under high mental stress
 
 ---
 
-## Study 2: [Title or Brief Description]
+## Study 2: The effects of pay satisfaction and affective commitment on turnover intention
 ### Citation
-[Full academic citation in APA format]
+A'yuninnisa, R., & Saptoto, R. (2015). The effects of pay satisfaction and affective commitment on turnover intention. International Journal of Research Studies in Psychology, 4. https://doi.org/10.5861/ijrsp.2015.1055.
 
 ### Study Overview
-- **Research Design:** [Type of study]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+- **Research Design:** Cross-sectional
+- **Sample Size:** 183 questionaires issued/163 returned
+- **Population:** Automotive manufacturing employees
+- **Setting:** Indonesia
+- **Duration:** N/A
 
 ### Key Findings
 #### Related to Your Problem
-[What did this study find about your type of problem?]
+- Negative correlation between pay satisfaction and turnover intention
+- Affective commitment has significant predictability of turnover intention when controlling for pay satisfaction
 
 #### Related to Your Solution
-[What did this study find about your type of solution?]
+- Higher compensation can lead to reduced turnover
+- As a byproduct of reduced turnover, organizational commitment may increase as a result with a negative correlation by inference
 
 #### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+- Pay Level/Intention to Leave correlation: r = -0.29, p < .05 (negative r-value correlation; statistically significant, medium effect)
+- Commitment-turnover intention correlation: b (beta) = -.77, p < .05
+- **Commitment-turnover intention measured when controlling for pay satisfaction**
+
 
 ### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+- **Problem Relevance:** High - Study measures turnover intent
+- **Solution Relevance:** High - Measures turnover intention as a function of pay level and satisfaction
+- **Context Similarity:** Different country with possibly different societal norms and work culture, but correlations can be transferred
 
 ---
 
-## Study 3: [Title or Brief Description]
+## Study 3: The Impact of Flexible Scheduling on Employee Attendance and Turnover
 ### Citation
-[Full academic citation in APA format]
+Dalton, D. R., & Mesch, D. J. (1990). The Impact of Flexible Scheduling on
+          Employee Attendance and Turnover. Administrative Science Quarterly, 35(2),
+          370–387. https://doi.org/10.2307/2393395
 
 ### Study Overview
-- **Research Design:** [Type of study]
-- **Sample Size:** [Number of participants/organizations]
-- **Population:** [Who was studied?]
-- **Setting:** [Where was the study conducted?]
-- **Duration:** [How long was the study period?]
+- **Research Design:** Non-randomized controlled study
+- **Sample Size:** 137 employees in experimental group, 134 in control group
+**134 employees remained in experimental group and 140 employees in control group upon conclusion**
+- **Population:** White-collar, hourly, service-oriented employees
+- **Setting:** A large western public utility company
+- **Duration:** ~6 year observation period, 1 year intervention period
 
 ### Key Findings
 #### Related to Your Problem
-[What did this study find about your type of problem?]
+- Employee turnover could also be affected by external factors such as economic conditions
+- Reduced alternative employment opportunities may also lead to a decreased employee turnover rate
 
 #### Related to Your Solution
-[What did this study find about your type of solution?]
+- Flexible scheduling interventions had minimal to no effect on employee turnover throughout the study.
+- Employee turnover may also be a reaction to work environment and/or work content.
 
 #### Important Statistics/Results
-[Specific numbers, effect sizes, confidence intervals]
+- 6.9 % reduction in employee turnover for experimental group (through ARIMA time-series analysis)
+- 7.4 % reduction in turnover for control group (through ARIMA time-series analysis)
+- Reductions not attributed to flexible scheduling intervention because control group concurrently experienced turnover reduction.
 
 ### Relevance Assessment
-- **Problem Relevance:** [High/Medium/Low - why?]
-- **Solution Relevance:** [High/Medium/Low - why?]
-- **Context Similarity:** [How similar to your situation?]
+- **Problem Relevance:** High - Addresses alternative factors pertaining to turnover
+- **Solution Relevance:** Medium - Discusses effect of flexible scheduling on turnover, but could've presented more effect sizes.
+- **Context Similarity:** Moderate similarity. Service-oriented employees in a public agency, but different work conditions from transportation industry
 
 ---
 
 ## Additional Studies Summary
-[For studies 4+, you can use shorter summaries]
 
-### Study 4: [Brief title]
-- **Citation:** [Short citation]
-- **Key Finding:** [Most important result]
-- **Relevance:** [Why this matters to your problem/solution]
+### Study 4: Meta-analytic evidence on flexible work practices
+- **Citation:** Onken-Menke, G., Nüesch, S., & Kröll, C. (2018). Are you attracted? Do you
+          remain? Meta-analytic evidence on flexible work practices. Business Research,
+          11(2), 239–277. https://doi.org/10.1007/s40685-017-0059-6
 
-### Study 5: [Brief title]
-- **Citation:** [Short citation]
-- **Key Finding:** [Most important result]
-- **Relevance:** [Why this matters to your problem/solution]
+- **Study Type:** Meta-analysis/systematic review
+
+- **Key Statistics: 
+    - Correlation between flexible work schedule and turnover intention: r = -0.05, p = -0.05 (p < 0.05) (N = 11,051)
+    - Correlation between telecommuting and turnover intention: r = -0.10, p = -0.10 (p < 0.01) (N = 6010)
+- **Relevance:** 
+    - Both correlations statistically significant given larger sample sizes
+    - Can infer that flexible work practices (scheduling, telecommuting, etc.) can have an ample effect on employee turnover
+
+
+### Study 5: The Impact of Procedural Justice on Employee Turnover and the Role of two Mediators
+- **Citation:** O’Callaghan, M. (2024). The impact of procedural justice on employee turnover
+          intentions and the role of two mediators. Organization Management Journal
+          (Emerald Publishing ), 21(2), 75–87. https://doi.org/10.1108/OMJ-03-2023-1822
+
+- **Key Statistics & Findings:**
+    - Correlation of procedural justice and intention to leave (turnover): p = 0.013 (N = 439 participants)
+        - LLC/ULC (95% Cl): -0.265/-0.028
+    - Correlation of procedural justice and intention to leave **w/meaningful work mediator**: p = 0.018
+        - LLC/ULC (95% Cl): -0.132/-0.017
+    - Findings indicate meaningful work has large impact on turnover intentions, especially when mediating procedural justics->intent to leave link
+- **Relevance:**
+    - Study describes noticable impact of fair procedural justice practices on intention to leave
+    - Also details meaningful work as a mediator in this relationship and as a predictor of turnover intentions
 
 ## Cross-Study Analysis
 
 ### Consistent Findings
-[What do multiple studies agree on?]
 
 #### About the Problem
-[Common findings about your type of problem]
+- A combination of internal AND external factors may be responsible for employee turnover issues across different industries
 
-#### About Solutions
-[Common findings about effective solutions]
-
-### Conflicting Evidence
-[Where do studies disagree?]
-
-#### Nature of Conflicts
-[What are the disagreements about?]
-
-#### Possible Explanations
-[Why might studies disagree?]
-
-### Evidence Gaps
-[What questions remain unanswered by current research?]
-
-## Synthesis for Decision Making
-
-### Strength of Evidence
-**For Problem Existence:** [Strong/Moderate/Weak evidence]
-**For Solution Effectiveness:** [Strong/Moderate/Weak evidence]
-
-### Key Insights for Your Situation
-[What does the research collectively tell you?]
-
-#### Problem-Related Insights
-[What research says about your problem]
-
-#### Solution-Related Insights
-[What research says about your proposed solution]
-
-#### Implementation Considerations
-[What research suggests about how to implement]
-
-### Research-Based Recommendations
-[What does the scientific evidence suggest you should do?]
+#### About Solutions (AI Assistance used - Claude Sonnet 4.5)
+- **Compensation increases reduce turnover, but the relationship is complex**: Higher wages show negative correlation with turnover (Study 1: r = -0.15; Study 2: r = -0.29), but excessively high wages may backfire, suggesting an optimal compensation range rather than "more is always better"
+- **Commitment and satisfaction are key mediators**: Pay satisfaction and affective commitment significantly predict turnover intention (Study 2: β = -0.77), indicating compensation works primarily by building organizational commitment rather than through direct financial incentive alone
+- **Flexible scheduling has limited direct impact**: Multiple studies show flexible work practices have minimal effect on turnover (Study 3: no significant difference between experimental and control groups; Study 4 meta-analysis: r = -0.05), suggesting scheduling flexibility should supplement rather than replace compensation-based strategies
+- **Procedural justice and meaningful work matter**: Fair treatment and perceived meaningfulness of work significantly affect turnover intentions (Study 5: p = 0.013), highlighting that how compensation is determined and communicated may be as important as the amount itself
 
 ---
-INSTRUCTIONS:
-1. Include at least 3-5 high-quality studies
-2. Focus on findings most relevant to your specific problem and solution
-3. Be objective - include both supportive and challenging evidence
-4. Use proper academic citations
-5. Connect findings back to your specific management problem
-6. Don't just summarize - analyze and synthesize across studies
+
+### Connection to Proposed Logic Model (AI Assistance used - Claude Sonnet 4.5)
+
+**Logic Model:** Compensation [X] → Productivity [Mediator 1] → Organizational Commitment [Mediator 2] → Staff Turnover [Y]
+
+#### **Evidence Support for Logic Model Components:**
+
+**[X → Y] Direct Effect: Compensation → Turnover**
+- ✅ **Strongly Supported**: Studies 1 and 2 demonstrate direct negative correlations between compensation and turnover
+  - Study 1 (Al-Azzam & Obeidat): r = -0.15, p < 0.05 (wages → turnover)
+  - Study 2 (A'yuninnisa & Saptoto): r = -0.29, p < 0.05 (pay satisfaction → turnover intention)
+- **Implication**: Compensation alone can reduce turnover, but effect sizes are modest (-0.15 to -0.29), suggesting mediation pathways are important
+
+**[X → Mediator 2 → Y] Pathway: Compensation → Organizational Commitment → Turnover**
+- ✅ **Strongly Supported**: Study 2 provides direct evidence of this pathway
+  - Affective commitment strongly predicts turnover intention: β = -0.77, p < 0.05
+  - Pay satisfaction affects commitment, which in turn affects turnover
+  - Study 1 notes "higher wages generally lead to increased job satisfaction and commitment"
+- **Implication**: This is the **primary mechanism** - compensation builds commitment (feeling valued, satisfied), which reduces turnover. The large effect size (β = -0.77) suggests commitment is a powerful mediator.
+
+**[Mediator 1] Productivity as Mediator**
+- ⚠️ **Limited/Unclear Support**: 
+  - Study 1 warns "higher wages may not signal higher productivity"
+  - No studies directly test whether productivity mediates compensation → turnover relationship
+  - Study 3 found external economic factors (reduced alternative employment) affected turnover independently of performance
+- **Implication**: Productivity pathway has **weak empirical support** in this evidence base. Commitment pathway appears more central.
+
+**[Alternative Mediators Suggested by Studies]:**
+- **Meaningful work** (Study 5): Mediates procedural justice → turnover (p = 0.018)
+- **Pay satisfaction** (Study 2): Mediates actual pay → commitment → turnover
+- **Procedural justice** (Study 5): Fair processes independently affect turnover (p = 0.013)
+
+#### **Revised Logic Model Based on Scientific Evidence:**
+
+The studies suggest a **modified model** may better reflect reality:
+
+**Primary Pathway (Strongly Supported):**
+Compensation [X] → Pay Satisfaction & Commitment [Mediator] → Turnover [Y]
+
+**Supporting Factors:**
+- Procedural Justice (how compensation is determined) → Commitment
+- Meaningful Work → Commitment
+- External Economic Conditions → Turnover (moderator)
+
+**Weak/Unsupported Pathway:**
+Compensation → Productivity → Turnover (minimal evidence in these studies)
+
+#### **Key Insights for Trucking Industry Application:**
+
+1. **Focus on commitment-building, not just wage levels**: Study 2's β = -0.77 for commitment → turnover suggests that building driver commitment through fair compensation, communication of benefits, and procedural justice may be more effective than simply raising wages
+
+2. **Optimal compensation range exists**: Study 1's non-linear findings (r = 0.0016 for quadratic term) suggest diminishing returns or even negative effects from excessive compensation - focus on competitive, fair wages rather than industry-leading maximums
+
+3. **Flexible scheduling is supplementary, not primary**: Studies 3 and 4 show weak effects (r = -0.05), suggesting flexible scheduling should complement compensation strategies rather than replace them
+
+4. **Communication and fairness matter**: Study 5's procedural justice findings emphasize that *how* compensation decisions are made and communicated affects turnover as much as the amounts themselves
+
+5. **Context matters**: Study 3 found economic conditions affected turnover independent of interventions - trucking companies should monitor labor market tightness and adjust strategies accordingly
+
+---
+
+**AI Assitance Used:** Claude Sonnet 4.5 -- Assisted in interpreting effect sizes and application to logic model

@@ -22,32 +22,8 @@
 * Personal resources
 * Organizational commitment
 
-#### Boolean Search Combinations
-[Document your search string combinations]
-- Example: ("employee retention" OR "staff turnover") AND ("small business" OR SME)
 
-### Search Filters Applied
-- **Date Range:** [Years included in search]
-- **Language:** [Languages included]
-- **Study Types:** [Research designs included/excluded]
-- **Geographic Scope:** [Regions/countries of interest]
-- **Industry Focus:** [Relevant sectors]
 
-## Selection Criteria
-
-### Inclusion Criteria
-[What studies WILL you include?]
-- Study design requirements
-- Population/context requirements
-- Outcome measures
-- Quality thresholds
-
-### Exclusion Criteria  
-[What studies will you EXCLUDE?]
-- Study limitations
-- Context mismatches
-- Quality concerns
-- Accessibility issues
 
 ## Search Results Summary
 
@@ -102,17 +78,6 @@
 - Relevance to your problem/solution
 - Quality assessment
 
-## Challenges and Limitations
-[Document any issues with your search process]
-
-### Search Limitations
-[What couldn't you access or find?]
-
-### Resource Constraints
-[Time, database access, or other limitations]
-
-### Topic-Specific Challenges
-[Issues unique to your research area]
 
 ## Search Strategy Summary
 
@@ -181,7 +146,7 @@
 ### Database Filters (use EBSCO interface controls):
 - Language: English
 - Peer Reviewed: Yes
-- Date Range: 2019-2025 (adjust as needed)
+- Date Range: All time
 
 ### Methods Search Filters (filter by research methods):
 **Filter Analysis Completed for:** Best X Query
@@ -265,7 +230,7 @@
 ### Database Filters (use EBSCO interface controls):
 - Language: English
 - Peer Reviewed: Yes
-- Date Range: 2019-2025 (adjust as needed)
+- Date Range: All time
 
 ### Methods Search Filters (filter by research methods):
 **Filter Analysis Completed for:** Best Y Query
@@ -357,7 +322,7 @@
 ### Database Filters (use EBSCO interface controls):
 - Language: English
 - Peer Reviewed: Yes
-- Date Range: 2019-2025 (adjust as needed)
+- Date Range: All time
 
 ### Methods Search Filters (filter by research methods):
 **Filter Analysis Completed for:** Best Y Query
@@ -371,21 +336,22 @@
 - **General Studies:** 4867 results (66.9%)
   - Filter: AB(study OR studies)
 
-**Quality Hierarchy Recommendation:**
-1. **Focus first on Meta-analyses & Systematic Reviews** (highest quality)
-2. **Then examine Controlled & Longitudinal Studies** (high quality)
-3. **Finally review General Studies** (evaluate quality individually)
 
-### Next Steps
-1. Use final queries to identify 5 studies or effect sizes
-2. Include meta-analyses where available
-3. Apply additional filters as needed
-4. Document findings in evidence-scientific-sources.txt
+## Consensus AI Search Strategy
 
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies
+### Research Question 1: Does wage/salary affect employee turnover or turnover intention?
+
+**Consensus AI Query:** Does wage/salary affect employee turnover or turnover intention?
+**Query Date:** 10/3/25
+**Initial Studies Found:** 20
+**Key Takeaways:** 
+- Consistent evidence shows that higher wages or better compensation significantly and negatively affect turnover intention—meaning employees are less likely to want to leave when they are paid more or feel fairly compensated
+- This relationship holds across various sectors, including manufacturing, services, mining, and hospitality, and in different countries
+- Salary satisfaction and perceptions of fair compensation are key drivers in reducing turnover intention
+- The effect of salary on turnover intention is often mediated by factors such as job satisfaction, employee engagement, and organizational commitment. Higher pay increases satisfaction and engagement, which further reduces turnover intention
+- Other factors like work environment, leadership style, and career development also play important roles, but salary remains a significant independent predictor
+- Wage inequality and unfavorable comparisons to internal or external reference wages can increase turnover intention, highlighting the importance of both absolute and relative pay 
+- A few studies found the effect of compensation on turnover intention to be weak or insignificant in certain contexts, but these are outnumbered by studies showing a strong negative relationship
+
+
+

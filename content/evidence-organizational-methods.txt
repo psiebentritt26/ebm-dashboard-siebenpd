@@ -1,167 +1,164 @@
 # Organizational Evidence: Internal Data Collection Strategy
 # Document your approach to gathering internal organizational evidence
 
+## Logic Model
+**Compensation [X] → Productivity [Mediator] → Organizational Commitment [Mediator] → Staff Turnover [Y]**
+
 ## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+**Primary Goal:** Gather industry-level data demonstrating the turnover problem in trucking and relationships between compensation, productivity, organizational commitment, and turnover rates
+**Secondary Goal:** Identify baseline metrics and trends to assess feasibility of compensation-based retention interventions
 
 ## Available Data Sources
 
-### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+### Bureau of Labor Statistics (BLS) Databases
 
-### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
+**Collection Period:** October-November 2025 (using most recent available data)
+**Industry Focus:** Truck Transportation (NAICS 484) and Transportation & Warehousing (NAICS 48-49)
+**Data Quality:** High - government-verified establishment and household surveys
 
-### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
+---
+
+#### 1. Job Openings and Labor Turnover Survey (JOLTS)
+- **URL:** https://www.bls.gov/jlt/
+- **Data Type:** Monthly establishment survey
+- **Variables Collected:**
+  - Separations rate (total turnover)
+  - Quits rate (voluntary turnover)
+  - Layoffs and discharges rate (involuntary turnover)
+  - Hires rate (recruitment activity)
+  - Job openings rate (unfilled positions)
+- **Time Period:** August 2025 (most recent)
+- **Sample Size:** ~21,000 establishments nationwide
+- **Access Method:** Free public data, downloadable Excel/CSV tables
+- **Update Frequency:** Monthly
+- **Logic Model Relevance:** Direct measure of [Y] Staff Turnover
+
+---
+
+#### 2. Occupational Employment and Wage Statistics (OEWS)
+- **URL:** https://www.bls.gov/oes/current/naics4_484000.htm
+- **Data Type:** Annual establishment survey
+- **Variables Collected:**
+  - Mean hourly wages by occupation
+  - Median hourly wages
+  - Wage distribution (10th, 25th, 75th, 90th percentiles)
+  - Employment levels by occupation
+  - Annual wage equivalents
+- **Time Period:** May 2024 (annual survey, published with lag)
+- **Sample Size:** 1.1 million establishments nationwide
+- **Access Method:** Free public data, searchable by NAICS/SOC codes, downloadable tables
+- **Update Frequency:** Annual (May reference period)
+- **Logic Model Relevance:** Direct measure of [X] Compensation
+
+---
+
+#### 3. Current Employment Statistics (CES)
+- **URL:** https://www.bls.gov/ces/
+- **Data Type:** Monthly payroll survey
+- **Variables Collected:**
+  - Total employment levels
+  - Average weekly hours worked
+  - Average weekly earnings
+  - Average hourly earnings
+  - Production/nonsupervisory worker data
+- **Time Period:** September 2025 (most recent)
+- **Sample Size:** 131,000 businesses, 670,000 worksites
+- **Access Method:** Free public data, time series downloads available via CES databases
+- **Update Frequency:** Monthly
+- **Logic Model Relevance:** [X] Compensation (earnings), [Mediator 1] Productivity (hours worked)
+
+---
+
+#### 4. Labor Productivity and Costs Program
+- **URL:** https://www.bls.gov/lpc/
+- **Data Type:** Quarterly productivity measures
+- **Variables Collected:**
+  - Labor productivity index (output per hour)
+  - Unit labor costs
+  - Output measures
+  - Hours worked measures
+- **Time Period:** Q2 2025 (quarterly, published with lag)
+- **Sample Size:** Industry-wide estimates
+- **Access Method:** Free public data, industry-specific productivity measures downloadable
+- **Update Frequency:** Quarterly
+- **Logic Model Relevance:** Direct measure of [Mediator 1] Productivity
+
+---
+
+#### 5. Employee Tenure Survey
+- **URL:** https://www.bls.gov/news.release/tenure.htm
+- **Data Type:** Biennial household survey (supplement to Current Population Survey)
+- **Variables Collected:**
+  - Median years of tenure with current employer
+  - Tenure distribution (<1 year, 1-4 years, 5-9 years, 10+ years)
+  - Tenure by occupation, industry, demographics
+- **Time Period:** January 2024 (biennial survey)
+- **Sample Size:** 60,000 households
+- **Access Method:** Free public data, demographic breakdowns available
+- **Update Frequency:** Every 2 years (January reference period)
+- **Logic Model Relevance:** Proxy measure for [Mediator 2] Organizational Commitment
+
+---
+
+#### 6. Injuries, Illnesses, and Fatalities (IIF) Program
+- **URL:** https://www.bls.gov/iif/
+- **Data Type:** Annual establishment survey (OSHA-reportable incidents)
+- **Variables Collected:**
+  - Total recordable cases (TRC) rate
+  - Days away from work, job transfer, or restriction (DART) rate
+  - Fatal injury rates
+  - Injury/illness incidence rates by industry
+- **Time Period:** 2023 (annual, published with lag)
+- **Sample Size:** 230,000 establishments
+- **Access Method:** Free public data, OSHA-reportable incident statistics downloadable
+- **Update Frequency:** Annual
+- **Logic Model Relevance:** Proxy measure for [Mediator 2] Organizational Commitment (working conditions affecting commitment)
+
+---
+
+#### 7. Union Members Survey
+- **URL:** https://www.bls.gov/news.release/union2.htm
+- **Data Type:** Annual household survey (supplement to Current Population Survey)
+- **Variables Collected:**
+  - Union membership rates by industry
+  - Union representation rates
+  - Median weekly earnings (union vs. non-union)
+  - Demographics of union members
+- **Time Period:** 2024 (annual)
+- **Sample Size:** 60,000 households
+- **Access Method:** Free public data, industry and demographic tables available
+- **Update Frequency:** Annual
+- **Logic Model Relevance:** Proxy measure for [Mediator 2] Organizational Commitment (voice mechanisms)
+
+---
+
+### Data Access Summary
+- **Cost:** All data sources are **free and publicly accessible**
+- **Technical Requirements:** Web browser, Excel/CSV software for downloads
+- **API Access:** BLS Public Data API available (https://www.bls.gov/developers/)
+- **Bulk Downloads:** Available via BLS FTP servers for historical time series
+- **Documentation:** Comprehensive technical documentation and methodology guides available for each survey
+- **Support:** BLS Information Office available for data questions (blsdata_staff@bls.gov)
 
 ## Data Collection Plan
 
-### Quantitative Data Collection
-#### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
+### AI Collection Method
+- **Model Used:** Claude Sonnet 4.5 (Ask and Agent Mode)
+- **Prompts Used:** 
+               1.  I'm studying the impact of employee pay/compensation on turnover in the trucking industry. 
+                   My preliminary logic model is that compensation [x] -> productivity [mediator]->organizational commitmemnt[mediator]->staff turnover. 
+                   Please search professional data repositories (BLS, USA Facts, World Bank, government databases) and suggest specific datasets with variables related to my logic model. 
+                   Include the URL and tell me what variables are in each dataset
+               2. Can you evaluate any possible barriers from the following: 
+                  1. Absence of a logic model
+                  2. Irrelevant data
+                  3. Inaccurate data
+                  4. Missing contextual information
+                  5. Measurement errors
+                  6. Small number problem
+                  7. Confusing percentages/averages
+                  8. Misleading graphs
+                  9. Correlations/regressions/overfitting
+                  10. Wide confidence intervals
 
-**Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
 
-**Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
-
-#### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
-- **Baseline Period:** [What period represents "normal" operations?]
-
-### Qualitative Data Collection
-#### Internal Documents Review
-- **Policy Documents:** [Relevant policies and procedures]
-- **Meeting Minutes:** [Records of relevant discussions]
-- **Communication Records:** [Emails, memos, announcements]
-- **Project Reports:** [Previous initiative outcomes]
-
-#### Observational Data
-- **Process Observations:** [What processes can you observe?]
-- **Workflow Analysis:** [How work actually gets done]
-- **Communication Patterns:** [How information flows]
-- **Cultural Observations:** [Organizational behavior patterns]
-
-## Access and Permissions
-
-### Data Access Strategy
-#### Required Permissions
-- **Data Custodians:** [Who controls access to different data sources?]
-- **Approval Process:** [What approvals are needed?]
-- **Privacy Considerations:** [What privacy restrictions apply?]
-- **Confidentiality Requirements:** [What confidentiality agreements needed?]
-
-#### Contact Plan
-1. **Primary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
-
-2. **Secondary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
-
-### Ethical Considerations
-- **Employee Privacy:** [How will you protect individual privacy?]
-- **Data Security:** [How will you secure sensitive data?]
-- **Use Limitations:** [How will you limit use of internal data?]
-- **Reporting Boundaries:** [What can/cannot be shared externally?]
-
-## Data Analysis Plan
-
-### Baseline Establishment
-#### Pre-Problem Baselines
-[What did performance look like before the problem emerged?]
-
-#### Normal Operating Ranges
-[What constitutes normal vs. abnormal performance?]
-
-#### Benchmark Comparisons
-[How does performance compare to industry standards or internal targets?]
-
-### Problem Evidence Analysis
-#### Problem Indicators
-[What data would confirm the problem exists?]
-
-#### Problem Severity Measurement
-[How will you quantify the severity of the problem?]
-
-#### Root Cause Investigation
-[What data analysis might reveal underlying causes?]
-
-### Solution Feasibility Analysis
-#### Resource Assessment
-[What internal data shows resource availability for solutions?]
-
-#### Capability Assessment
-[What data shows organizational capability for change?]
-
-#### Risk Assessment
-[What internal data reveals potential implementation risks?]
-
-## Documentation Strategy
-
-### Data Collection Log
-[How will you track what data you collect and when?]
-
-### Analysis Documentation
-[How will you document your analysis process and findings?]
-
-### Quality Assurance
-[How will you ensure data accuracy and completeness?]
-
-### Version Control
-[How will you manage different versions of data and analysis?]
-
-## Expected Challenges
-
-### Data Availability
-[What data might not be available or accessible?]
-
-### Data Quality Issues
-[What data quality problems might you encounter?]
-
-### Access Barriers
-[What obstacles might prevent data access?]
-
-### Time Constraints
-[How might time limitations affect data collection?]
-
-## Backup Plans
-
-### Alternative Data Sources
-[What alternatives exist if primary sources aren't available?]
-
-### Proxy Measures
-[What substitute metrics could you use if ideal data isn't available?]
-
-### Simplified Analysis
-[What's the minimum viable organizational evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start with readily available data before pursuing hard-to-access information
-2. Be respectful of privacy and confidentiality when requesting internal data
-3. Focus on data most relevant to your specific problem and solution
-4. Document your data sources and analysis methods clearly
-5. Have backup plans for inaccessible data
